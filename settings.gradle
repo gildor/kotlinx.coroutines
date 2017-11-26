@@ -7,6 +7,7 @@ include 'kotlinx-coroutines-guava'
 include 'kotlinx-coroutines-jdk8'
 include 'kotlinx-coroutines-nio'
 include 'kotlinx-coroutines-quasar'
+include 'kotlinx-coroutines-retrofit'
 
 include 'kotlinx-coroutines-reactive'
 include 'kotlinx-coroutines-reactor'
@@ -28,6 +29,7 @@ project(':kotlinx-coroutines-guava').projectDir = file('integration/kotlinx-coro
 project(':kotlinx-coroutines-jdk8').projectDir = file('integration/kotlinx-coroutines-jdk8')
 project(':kotlinx-coroutines-nio').projectDir = file('integration/kotlinx-coroutines-nio')
 project(':kotlinx-coroutines-quasar').projectDir = file('integration/kotlinx-coroutines-quasar')
+project(':kotlinx-coroutines-retrofit').projectDir = file('integration/kotlinx-coroutines-retrofit')
 project(':kotlinx-coroutines-reactive').projectDir = file('reactive/kotlinx-coroutines-reactive')
 project(':kotlinx-coroutines-reactor').projectDir = file('reactive/kotlinx-coroutines-reactor')
 project(':kotlinx-coroutines-rx1').projectDir = file('reactive/kotlinx-coroutines-rx1')

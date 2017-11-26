@@ -8,6 +8,7 @@ This directory contains modules that provide integration with various asynchrono
 * [kotlinx-coroutines-nio](kotlinx-coroutines-nio/README.md) -- integration with asynchronous IO on JDK7+ (Android O Preview).
 * [kotlinx-coroutines-guava](kotlinx-coroutines-guava/README.md) -- integration with Guava [ListenableFuture](https://github.com/google/guava/wiki/ListenableFutureExplained).
 * [kotlinx-coroutines-quasar](kotlinx-coroutines-quasar/README.md) -- integration with [Quasar](http://docs.paralleluniverse.co/quasar/).
+* [kotlinx-coroutines-retrofit](kotlinx-coroutines-retrofit/README.md) -- integration with [Retrofit](http://square.github.io/retrofit/) [Call](https://square.github.io/retrofit/2.x/retrofit/retrofit2/Call.html).
 
 ## Contributing
 
